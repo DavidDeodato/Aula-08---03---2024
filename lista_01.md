@@ -90,10 +90,23 @@ A) "Olá, meu nome é João. Olá, meu nome é Maria."
 ______
 
 
-// essas questões eu fiz em outros arquivos, respectivamente: Questão7.js, Questão8.js, Questão9.js, Questão10.js
+
 
 
 # Questões dissertativas
+
+// essas questões eu fiz em outros arquivos, respectivamente: Questão7.js, Questão8.js, Questão9.js, Questão10.js
+
+
+
+
+
+
+
+
+
+
+
 
 **7)** Vamos criar um programa em JavaScript para entender classes, métodos e atributos!
 Classe Animal:
