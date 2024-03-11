@@ -26,10 +26,10 @@ class professor extends funcionario{
          console.log(`este professor é da área de ${this.disciplina}`)
 
          //colocando texto no console.log antes de falar o valor do salario
-         console.log(`atualmente, o ${this.nome} este professor ganha:`);
+         console.log(`atualmente, o ${this.nome} ganha:`);
 
          //mostrando o valor no console.log
-        console.log(this.valortotal, '\n');
+        console.log("R$",this.valortotal, '\n');
     }
 
 
